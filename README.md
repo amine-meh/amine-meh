@@ -1,10 +1,11 @@
 # Hi there, I'm Mohamed Amine 👋
 
-- 👋 I’m @amine-meh
-- 👀 I’m interested in IT Project Management, Software Development, and Cloud Technologies.
-- 🌱 I’m currently learning more about Agile methodologies, Python solutions, and SQL.
-- 💞️ I’m looking to collaborate on projects based on python.
+- 💻 I’m passionate about IT Project Management, Software Development, and Cloud Technologies.
+- 🌱 I’m currently enhancing my skills in Agile methodologies, Python solutions, and SQL.
+- 💞️ I’m looking to collaborate on Python-based projects.
+- 📚 As a second-year Master's student in IT Project Management, I'm eager to combine project management with technical expertise.
 - 😄 Pronouns: He/Him
+
 
 
 <!---
